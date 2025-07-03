@@ -1,1 +1,1 @@
-This folder contains the final project PDF
+This folder contains the final project PPT
